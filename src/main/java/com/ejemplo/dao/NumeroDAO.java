@@ -30,6 +30,6 @@ public class NumeroDAO {
             System.out.println(
                     "error al guardar en ORACLE: " + e.getMessage()
             );
-        }    
+        }
     }
 }
