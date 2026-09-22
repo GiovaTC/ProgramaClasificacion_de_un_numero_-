@@ -2,6 +2,8 @@
 
 <img width="1254" height="1254" alt="image" src="https://github.com/user-attachments/assets/6abcad52-68bf-4530-bd82-8051ef0d4428" />
 
+<img width="2552" height="1079" alt="image" src="https://github.com/user-attachments/assets/4a2da8fb-2c73-40aa-9d24-0a04088b1eaa" />    
+
 ```
 
 programa básico de consola en Java 21 + IntelliJ IDEA + Oracle 19c, utilizando 3 condicionales y guardando el resultado en Oracle.
