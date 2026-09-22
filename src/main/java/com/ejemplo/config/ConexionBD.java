@@ -18,5 +18,5 @@ public class ConexionBD {
                 USUARIO,
                 PASSWORD
         );
-    }   
+    }
 }
